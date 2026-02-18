@@ -14,7 +14,7 @@
 This framework serves as a visual "source of truth," reducing the learning curve for new technicians and ensuring consistent outcomes through structured system logic. [cite_start]It ensures that tickets are only closed after a customer response is received and a follow-up email is sent[cite: 43, 46].
 
 ### 📁 Case Process Architecture Procedure  
-[Document](./ABH_Case_Process_Architecture_2023.pdf)
+[PDF Document](./Case_Process_Architecture_2023.pdf)
 
 ### 📁 Visual Flowchart
 ![Always Be Hustling Flowchart](./ABH-Case-Support-Process.png)
